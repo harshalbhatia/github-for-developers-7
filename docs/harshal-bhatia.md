@@ -7,3 +7,5 @@
 **Food:** Pizza
 
 **Hobby:** Programming
+
+**Color:** Black
