@@ -2,10 +2,12 @@
 
 **Name:** Harshal Bhatia
 
-**From:** Bangalore, India
+**From:** India
 
 **Food:** Pizza
 
 **Hobby:** Programming
 
 **Color:** Black
+
+**Current City:** Bangalore
